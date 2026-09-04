@@ -7,7 +7,7 @@ about:
   head: f812685
   archived: false
   latestVersion: latest
-  collectedAt: 2026-09-04T19:22:11Z
+  collectedAt: 2026-09-04T21:10:21Z
 timeline:
   created: 2025-08-23
   lastCommit: 2026-08-26
@@ -85,5 +85,68 @@ total:
   openIssue: 0
   commit: 193
 ---
+path: /home/runner/.x-repo/github.com/ronilan/rusticon
+collectedAt: 2026-09-04T21:10:21Z
+loc:
+  Rust:
+    code: 4427
+    comments: 146
+    blanks: 576
+    files: 104
+  Svg:
+    code: 3612
+    comments: 14
+    blanks: 14
+    files: 14
+  Yaml:
+    code: 741
+    comments: 0
+    blanks: 177
+    files: 2
+  Css:
+    code: 376
+    comments: 72
+    blanks: 52
+    files: 1
+  TypeScript:
+    code: 136
+    comments: 12
+    blanks: 26
+    files: 4
+  Toml:
+    code: 103
+    comments: 0
+    blanks: 18
+    files: 1
+  Html:
+    code: 81
+    comments: 12
+    blanks: 7
+    files: 1
+  JavaScript:
+    code: 43
+    comments: 0
+    blanks: 13
+    files: 4
+  Json:
+    code: 31
+    comments: 0
+    blanks: 0
+    files: 2
+  Dockerfile:
+    code: 14
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 332
+    blanks: 189
+    files: 8
+total:
+  code: 9681
+  comments: 633
+  blanks: 1092
+  files: 142
 ---
 
