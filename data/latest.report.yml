@@ -2,15 +2,15 @@ about:
   description: "A mouse driven SVG favicon editor for your terminal, that also works on the web (written in Rust w/ Incredible)"
   license: NOASSERTION
   homepage: 
-  head: 8439ccc
+  head: b8adda1
   archived: false
   latestVersion: "latest"
   latestRelease: "latest"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T20:29:22Z
+  collectedAt: 2026-09-10T21:12:18Z
 timeline:
   created: 2025-08-23
-  lastCommit: 2026-09-07
+  lastCommit: 2026-09-10
   lastVersion: 2026-07-30
   lastRelease: 2026-07-30
   lastPrerelease: 
@@ -23,72 +23,72 @@ popularity:
   pullRequest: 0
   issue: 2
 language:
-  Rust: 158484
+  Rust: 158699
   CSS: 17719
   HTML: 7688
   TypeScript: 5428
   JavaScript: 1237
   Dockerfile: 471
-totalBytes: 191027
+totalBytes: 191242
 recent:
   last30d:
-    since: 2026-08-10
+    since: 2026-08-11
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 8
+    commit: 10
   last60d:
-    since: 2026-07-11
-    release: 2
+    since: 2026-07-12
+    release: 1
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 22
+    commit: 24
   last90d:
-    since: 2026-06-11
+    since: 2026-06-12
     release: 2
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 42
+    commit: 44
   last180d:
-    since: 2026-03-13
+    since: 2026-03-14
     release: 2
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 83
+    commit: 85
   last360d:
-    since: 2025-09-14
+    since: 2025-09-15
     release: 2
     mergedPR: 0
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 137
+    commit: 139
   last720d:
-    since: 2024-09-19
+    since: 2024-09-20
     release: 9
     mergedPR: 0
     openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 194
+    commit: 196
 total:
   release: 9
   mergedPR: 0
   openPR: 0
   closedIssue: 2
   openIssue: 0
-  commit: 194
+  commit: 196
 ---
 path: /home/runner/.x-repo/github.com/ronilan/rusticon
-collectedAt: 2026-09-09T20:29:24Z
+collectedAt: 2026-09-10T21:12:23Z
 loc:
   Rust:
     code: 4421
