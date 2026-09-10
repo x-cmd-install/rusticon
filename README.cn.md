@@ -1,51 +1,51 @@
 # rusticon
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 A mouse driven SVG favicon editor for your terminal, that also works on the web (written in Rust w/ Incredible)
 
-![rusticon](https://repo.x-cmd.io/rusticon.svg)
+![rusticon](https://repo.x-cmd.io/rusticon.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install rusticon
 ```
 
-## Code insight
+## 代码规模
 
-Total: **9,558** lines of code across **125** files in the top 5 languages.
+合计: **9,558** 行代码（覆盖前 5 种语言、共 **125** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 4,421 | 146 | 577 | 104 |
 | Svg | 3,612 | 14 | 14 | 14 |
 | Yaml | 741 | 0 | 177 | 2 |
 | Css | 376 | 72 | 52 | 1 |
 | TypeScript | 136 | 12 | 26 | 4 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/ronilan/rusticon>
-- **License**: NOASSERTION
+- **上游仓库**: <https://github.com/ronilan/rusticon>
+- **许可证**: NOASSERTION
 
-## Release
+## 发布
 
-- **Latest**: `latest` (2026-07-30)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 7
+- **最新版本**: `latest` (2026-07-30)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 7 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 103 · **Forks**: 1 · **Open issues**: 2 · **Contributors**: 1
+- **Star**: 103 · **Fork**: 1 · **开放 issue**: 2 · **贡献者**: 1
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 9 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 196
+- **发布数**: 9 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 196
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 10 |
 | last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 24 |
@@ -54,10 +54,10 @@ Total: **9,558** lines of code across **125** files in the top 5 languages.
 | 360d | 2025-09-15 | 2 | 0 | 0 | 1 | 0 | 139 |
 | last720d | 2024-09-20 | 9 | 0 | 0 | 2 | 0 | 196 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [rusticon-macos-native-macos-arm.zip](https://github.com/ronilan/rusticon/releases/download/v0.3.0/rusticon-macos-native-macos-arm.zip) | 2.5 MiB | `native/darwin/x64` |
 | [rusticon-macos-native-macos-intel.zip](https://github.com/ronilan/rusticon/releases/download/v0.3.0/rusticon-macos-native-macos-intel.zip) | 2.6 MiB | `native/darwin/x64` |
 | [rusticon-terminal-linux.zip](https://github.com/ronilan/rusticon/releases/download/v0.3.0/rusticon-terminal-linux.zip) | 1.5 MiB | `other` |
@@ -66,13 +66,13 @@ Total: **9,558** lines of code across **125** files in the top 5 languages.
 | [rusticon-terminal-windows.zip](https://github.com/ronilan/rusticon/releases/download/v0.3.0/rusticon-terminal-windows.zip) | 1.4 MiB | `native/win/x64` |
 | [rusticon-windows-native.zip](https://github.com/ronilan/rusticon/releases/download/v0.3.0/rusticon-windows-native.zip) | 1.9 MiB | `native/win/x64` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for rusticon lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rusticon` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+rusticon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `rusticon` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/rusticon.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/rusticon.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:12:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:12:48Z._
