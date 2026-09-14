@@ -14,11 +14,11 @@ x install rusticon
 
 ## Code insight
 
-Total: **8,876** lines of code across **122** files in the top 5 languages.
+Total: **8,908** lines of code across **122** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 4,657 | 148 | 608 | 105 |
+| Rust | 4,689 | 148 | 613 | 105 |
 | Svg | 3,612 | 14 | 14 | 14 |
 | Css | 376 | 72 | 52 | 1 |
 | Toml | 103 | 0 | 18 | 1 |
@@ -32,27 +32,27 @@ Total: **8,876** lines of code across **122** files in the top 5 languages.
 ## Release
 
 - **Latest**: `latest` (2026-07-30)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-13
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 103 · **Forks**: 1 · **Open issues**: 2 · **Contributors**: 1
+- **Stars**: 104 · **Forks**: 1 · **Open issues**: 2 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 197
+- **Releases**: 9 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 6 |
-| last60d | 2026-07-15 | 1 | 0 | 0 | 0 | 0 | 23 |
-| 90d | 2026-06-15 | 2 | 0 | 0 | 0 | 0 | 45 |
-| last180d | 2026-03-17 | 2 | 0 | 0 | 0 | 0 | 83 |
-| 360d | 2025-09-18 | 2 | 0 | 0 | 1 | 0 | 138 |
-| last720d | 2024-09-23 | 9 | 0 | 0 | 2 | 0 | 197 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-16 | 1 | 0 | 0 | 0 | 0 | 24 |
+| 90d | 2026-06-16 | 2 | 0 | 0 | 0 | 0 | 46 |
+| last180d | 2026-03-18 | 2 | 0 | 0 | 0 | 0 | 84 |
+| 360d | 2025-09-19 | 2 | 0 | 0 | 1 | 0 | 139 |
+| last720d | 2024-09-24 | 9 | 0 | 0 | 2 | 0 | 198 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rusticon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:56:57Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:18:03Z._
