@@ -4,7 +4,7 @@
 
 A mouse driven SVG favicon editor for your terminal, that also works on the web (written in Rust w/ Incredible)
 
-![rusticon](https://repo.x-cmd.io/rusticon.svg)
+[![x-cmd/install — rusticon Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rusticon.svg)](https://x-cmd.com/install/rusticon)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **8,908** lines of code across **122** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 0 | 0 | 24 |
-| 90d | 2026-06-20 | 2 | 0 | 0 | 0 | 0 | 46 |
-| last180d | 2026-03-22 | 2 | 0 | 0 | 0 | 0 | 84 |
-| 360d | 2025-09-23 | 2 | 0 | 0 | 1 | 0 | 139 |
-| last720d | 2024-09-28 | 9 | 0 | 0 | 2 | 0 | 198 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 0 | 0 | 20 |
+| 90d | 2026-06-22 | 2 | 0 | 0 | 0 | 0 | 46 |
+| last180d | 2026-03-24 | 2 | 0 | 0 | 0 | 0 | 82 |
+| 360d | 2025-09-25 | 2 | 0 | 0 | 1 | 0 | 138 |
+| last720d | 2024-09-30 | 9 | 0 | 0 | 2 | 0 | 198 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rusticon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:12:29Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:07:52Z._
