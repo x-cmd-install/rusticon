@@ -14,15 +14,15 @@ x install rusticon
 
 ## Code insight
 
-Total: **8,919** lines of code across **122** files in the top 5 languages.
+Total: **9,147** lines of code across **123** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 4,698 | 149 | 613 | 105 |
 | Svg | 3,612 | 14 | 14 | 14 |
 | Css | 376 | 72 | 52 | 1 |
+| PowerShell | 143 | 57 | 21 | 2 |
 | Toml | 103 | 0 | 18 | 1 |
-| Html | 81 | 12 | 7 | 1 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **8,919** lines of code across **122** files in the top 5 languages.
 ## Release
 
 - **Latest**: `latest` (2026-07-30)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-25
 - **Assets in release**: 7
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **8,919** lines of code across **122** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 200
+- **Releases**: 9 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-26 | 1 | 0 | 0 | 0 | 0 | 22 |
-| 90d | 2026-06-26 | 2 | 0 | 0 | 0 | 0 | 48 |
-| last180d | 2026-03-28 | 2 | 0 | 0 | 0 | 0 | 84 |
-| 360d | 2025-09-29 | 2 | 0 | 0 | 1 | 0 | 140 |
-| last720d | 2024-10-04 | 9 | 0 | 0 | 2 | 0 | 200 |
+| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-27 | 1 | 0 | 0 | 0 | 0 | 23 |
+| 90d | 2026-06-27 | 2 | 0 | 0 | 0 | 0 | 49 |
+| last180d | 2026-03-29 | 2 | 0 | 0 | 0 | 0 | 85 |
+| 360d | 2025-09-30 | 2 | 0 | 0 | 1 | 0 | 141 |
+| last720d | 2024-10-05 | 9 | 0 | 0 | 2 | 0 | 201 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rusticon lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:43:23Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:54:07Z._
