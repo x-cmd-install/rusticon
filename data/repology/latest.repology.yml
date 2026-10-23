@@ -1,0 +1,36 @@
+- repo: aur
+  srcname: rusticon
+  binname: rusticon
+  visiblename: rusticon
+  version: 0.2.2
+  origversion: 0.2.2-2
+  status: unique
+  summary: A mouse driven SVG favicon editor for your terminal
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - cc-by-nc-nd-4.0
+- repo: aur
+  srcname: rusticon-bin
+  binname: rusticon-bin
+  visiblename: rusticon-bin
+  version: 0.2.2
+  origversion: 0.2.2-1
+  status: unique
+  summary: A mouse driven SVG favicon editor for your terminal
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - cc-by-nc-nd-4.0
+- repo: aur
+  srcname: rusticon-git
+  binname: rusticon-git
+  visiblename: rusticon-git
+  version: 0.2.3.r1.ge2ece1a
+  origversion: 0.2.3.r1.ge2ece1a-2
+  status: rolling
+  summary: A mouse driven SVG favicon editor for your terminal
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - cc-by-nc-nd-4.0
