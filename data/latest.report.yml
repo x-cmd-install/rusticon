@@ -2,15 +2,15 @@ about:
   description: "A mouse driven SVG favicon editor for your terminal, that also works on the web (written in Rust w/ Incredible)"
   license: NOASSERTION
   homepage: https://ronilan.github.io/rusticon/
-  head: e7920b3
+  head: 0019389
   archived: false
   latestVersion: "latest"
   latestRelease: "latest"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:26:20Z
+  collectedAt: 2026-11-28T09:21:10Z
 timeline:
   created: 2025-08-23
-  lastCommit: 2026-11-13
+  lastCommit: 2026-11-27
   lastVersion: 2026-07-30
   lastRelease: 2026-07-30
   lastPrerelease: 
@@ -23,76 +23,76 @@ popularity:
   pullRequest: 0
   issue: 2
 language:
-  Rust: 178273
+  Rust: 178538
   CSS: 17719
   PowerShell: 8709
   HTML: 7868
   Shell: 5069
   JavaScript: 1842
   Dockerfile: 471
-totalBytes: 219951
+totalBytes: 220216
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 5
+    commit: 6
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 7
+    commit: 8
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 16
+    commit: 17
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 2
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 59
+    commit: 60
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 2
     mergedPR: 0
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 133
+    commit: 134
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 9
     mergedPR: 0
     openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 209
+    commit: 210
 total:
   release: 9
   mergedPR: 0
   openPR: 0
   closedIssue: 2
   openIssue: 0
-  commit: 209
+  commit: 210
 ---
 path: /home/runner/.x-repo/github.com/ronilan/rusticon
-collectedAt: 2026-11-27T10:26:25Z
+collectedAt: 2026-11-28T09:21:11Z
 loc:
   Rust:
-    code: 4943
+    code: 4958
     comments: 161
     blanks: 629
     files: 108
@@ -142,7 +142,7 @@ loc:
     blanks: 209
     files: 8
 total:
-  code: 9477
+  code: 9492
   comments: 771
   blanks: 998
   files: 139
